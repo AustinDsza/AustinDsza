@@ -109,7 +109,7 @@ PyTorch • Django REST • React Native
 
 ## 🏆 Achievements
 
-- 🥇 **Topper** – Final Semester (IT Dept, DBIT Mumbai)  
+- 🥇 **Topper** – Final Semester (IT Dept, Diploma among 135 students )  
 - 🧠 **Winner** – Mindflix Ideation Contest (National & Regional)  
 - 🦈 **Shark Tank S4 Finalist** – Among Top 8 of 8+ Lakh Applicants *(Intaste AI)*  
 - 🚀 **Mumbai University Ideation 2.0** – Demo Day Selection (Top 20 out of 275 teams)  
