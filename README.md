@@ -110,8 +110,8 @@ PyTorch • Django REST • React Native
 ## 🏆 Achievements
 
 - 🥇 **Topper** – Final Semester (IT Dept, Diploma among 135 students )  
-- 🧠 **Winner** – Mindflix Ideation Contest (National & Regional)  
-- 🦈 **Shark Tank S4 Finalist** – Among Top 8 of 8+ Lakh Applicants *(Intaste AI)*  
+- 🧠 **Winner** – **1st Place (Institution Level – 25 Teams), 1st Place (Regional), 4th Place (National)** – Mindflix Ideation Contest, Science & Technology Track
+- 🦈 **Shark Tank S4 shortlisted** – Among 8+ Lakh Applicants *(Intaste AI)*  
 - 🚀 **Mumbai University Ideation 2.0** – Demo Day Selection (Top 20 out of 275 teams)  
 - 💼 **Recognized by OLA** – Secured ₹10K in OLA Cloud credits via direct outreach to CEO Bhavish Aggarwal, reflecting initiative and execution
 
