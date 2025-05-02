@@ -21,7 +21,7 @@
 
 ## 🎓 Education
 
-- **B.E. in Information Technology**  
+- **T.E. in Information Technology**  
   Don Bosco Institute of Technology, Mumbai (2023 – Present)
 
 - **Diploma in Information Technology**  
