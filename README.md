@@ -21,7 +21,7 @@
 
 ## 🎓 Education
 
-- **T.E. in Information Technology**  
+- **B.E. in Information Technology**  
   Don Bosco Institute of Technology, Mumbai (2023 – Present)
 
 - **Diploma in Information Technology**  
@@ -29,25 +29,6 @@
 
 - **SSC**  
   ASP Public School, Ghansoli (2020)
-
----
-
-## 💼 Experience
-
-### Gruham.ai — *UI/UX Designer*  
-📅 Aug 2023 – Feb 2024 | 🌍 Remote  
-- Designed CRM & ERP dashboards to streamline business workflows  
-- Developed SaaS UI with actionable visualizations  
-- Conducted user research and usability testing  
-- Tools: Figma, Jira
-
-### Campus Haat Solutions — *UI/UX Designer*  
-📅 Jan 2023 – Feb 2023 | 🌍 Remote  
-- Designed accommodation discovery feature for app  
-- Worked closely with CTO on new feature concepts  
-- Tools: Figma, Asana
-
----
 
 ## 🚀 Projects
 
@@ -63,49 +44,6 @@ PyTorch • Django REST • React Native
 - Grad-CAM integration for explainability  
 - Secure backend with real-time mobile verification app
 
----
-
-
-## 💻 Tech Stack
-
-<table>
-  <tr>
-    <td><strong>Languages & Frameworks:</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases:</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Platforms:</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-      <img src="https://graphql.org/img/logo.svg" height="40" style="background-color: white; border-radius: 6px; padding: 4px;" />
-    </td>
-  </tr>
-</table>
-
-      
-
----
 
 ## 🏆 Achievements
 
